@@ -53,7 +53,7 @@ p {
 	}
 }
 /** medium devices only **/
-@media (min-width: 576px) and (max-width: 767px) {
+@media (min-width: 576px) and (max-width: 768px) {
 	.box1 ,.box2 ,.box3 {
 		width: 95%;
 	}
