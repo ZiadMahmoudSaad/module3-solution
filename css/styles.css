@@ -54,16 +54,13 @@ p {
 }
 /** medium devices only **/
 @media (min-width: 576px) and (max-width: 767px) {
-	#full-list {
-		visibility: hidden;
-	}
 	.box1 ,.box2 ,.box3 {
 		width: 95%;
 	}
 	
 }
 /** small devices**/
-@media (max-width: 576px) {
+@media (max-width: 575px) {
 	.navbar-brand ,.navbar-toggler {
 		font-size: 5vw;
 	}
